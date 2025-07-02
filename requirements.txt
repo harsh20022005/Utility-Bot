@@ -1,0 +1,10 @@
+python-telegram-bot==13.15
+requests
+langdetect
+googletrans==4.0.0rc1
+pdf2docx
+python-docx
+Pillow
+matplotlib
+transformers
+PyMuPDF
